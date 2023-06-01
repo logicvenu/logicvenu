@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @logicvenu
-- 👀 I’m interested in DevOps SRE
-- 🌱 I’m currently learning Kubernetes, CI/CD
-- 💞️ I’m looking to collaborate on DevOps SRE
+- 👀 I’m interested in MLOps, SRE(DevOps)
+- 🌱 I’m currently working on Vertex AI, MLflow, Kubeflow, BigQuery ML, Kubernetes, CI/CD
+- 💞️ I’m looking to collaborate on MLOps, DevOps SRE
 - 📫 How to reach me ...
 
 <!---
