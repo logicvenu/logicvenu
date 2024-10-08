@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @logicvenu
 - 👀 I’m interested in MLOps, SRE(DevOps)
 - 🌱 I’m currently learning Machine Learning Engineering
-- 🌱 I’m currently working on Vertex AI, MLflow, Kubeflow, BigQuery ML, Kubernetes, CI/CD
-- 💞️ I’m looking to collaborate on MLOps, DevOps SRE
+- 🌱 I’m currently working on Vertex AI, Airflow, MLflow, Kubeflow, BigQuery ML, Kubernetes, CI/CD
+- 💞️ I’m looking to collaborate on MLOps, LLMOps, DevOps and  SRE
 - 🤔 - 🤓 Always I am excited about new and important topics
 - 📫 How to reach me ...
 
