@@ -9,7 +9,7 @@ I work extensively with **Predictive AI, Generative AI **, with a strong emphasi
 - SRE / DevOps for AI systems  
 
 ### 🌱 Currently Working With
-- Vertex AI, Airflow, MLflow, Kubeflow  
+- Vertex AI, Sagemaker, Bedrock, Airflow, MLflow, Kubeflow  
 - Kubernetes, CI/CD, BigQuery ML  
 
 ### 💞️ Open to Collaborate On
