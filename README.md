@@ -2,10 +2,10 @@ Hi, I’m Venugopal
 
 I’m a technologist with **18+ years of IT experience**, specializing in **MLOps, Generative AI, AgentOps, and SRE (DevOps)**. Over the last **4+ years**, I’ve focused on building and operating **production-grade AI platforms**, helping organizations scale from PoCs to reliable, enterprise-ready solutions on **GCP and AWS**.
 
-I work extensively with **Predictive AI, Generative AI **, with a strong emphasis on **automation, observability, reliability, and cloud-native infrastructure**. I’ve also contributed to **AI Center of Excellence (AI-COE)** initiatives, defining best practices for MLOps, LLMOps, AgentOps, and model governance.
+I work extensively with **Predictive AI, Generative AI **, with a strong emphasis on **automation, observability, reliability, and cloud-native infrastructure**. I’ve also contributed to **AI Center of Excellence (AI-COE)** initiatives, defining best practices for MLOps, Gen AIOps, AgentOps, and model governance.
 
 ### 👀 Interests
-- MLOps, LLMOps, GenAIOps, AgentOps  
+- MLOps, GenAIOps, AgentOps  
 - SRE / DevOps for AI systems  
 
 ### 🌱 Currently Working With
@@ -13,7 +13,7 @@ I work extensively with **Predictive AI, Generative AI **, with a strong emphasi
 - Kubernetes, CI/CD, BigQuery ML  
 
 ### 💞️ Open to Collaborate On
-- MLOps & LLMOps platforms  
+- MLOps & AgentOps platforms  
 - Agent-based AI systems  
 
 📫 **Reach me:** https://www.linkedin.com/in/ venu-MLOps-GenAIOps-AgentOps | venug24@hotmail.com
