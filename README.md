@@ -16,7 +16,7 @@ I work extensively with **Predictive AI, Generative AI **, with a strong emphasi
 - MLOps & AgentOps platforms  
 - Agent-based AI systems  
 
-📫 **Reach me:** https://www.linkedin.com/in/venu-MLOps-GenAIOps-AgentOps | venug24@hotmail.com
+📫 **Reach me:** https://www.linkedin.com/in/venu-MLOps-GenAIOps-AgentOps  |  venug24@hotmail.com
 
 <!---
 logicvenu/logicvenu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
