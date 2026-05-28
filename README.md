@@ -87,7 +87,7 @@ I’m particularly interested in:
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://www.linkedin.com/in/venu-mlops-genaiops-agentops
+* LinkedIn: https://www.linkedin.com/in/venugopal-ai-platform
 * Email: [venug24@hotmail.com](mailto:venug24@hotmail.com)
 
 ---
