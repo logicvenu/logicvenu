@@ -26,7 +26,7 @@ Technologist with 20+ years of experience across IT infrastructure, cloud platfo
 - Enterprise MLOps Platforms
 
 ### Connect
-LinkedIn: https://www.linkedin.com/in/venu-mlops-genaiops-agentops  
+LinkedIn: https://www.linkedin.com/in/venugopal-ai-platform  
 Email: venug24@hotmail.com
 
-Building scalable AI systems that bridge infrastructure, intelligence, and operations.
+## Building scalable AI systems that bridge infrastructure, intelligence, and operations.
